@@ -1,2 +1,2 @@
 ## CMSC426: Image Processing
-[hw1.html](HW1)
+[HW-1](hw1.html)
